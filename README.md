@@ -1,6 +1,6 @@
 # destini_story
 
-A new Flutter project.
+<img src = https://user-images.githubusercontent.com/43213197/60587646-991c0280-9db2-11e9-9882-b25147f3aef4.gif width = 40%>
 
 ## Getting Started
 
